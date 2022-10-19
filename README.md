@@ -8,7 +8,7 @@
     <a href="#Classe-Lendario">Classe Lendario</a>
 </p>
 
-
+#
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -43,11 +43,25 @@
 ⠀⠀⠀⠉⠉⠀⠀⠈⠉⠉⠉⠙⠻⠿⠾⠾⠻⠓⢦⠦⡶⡶⠿⠛⠛⠓⠒⠒⠚⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
----
+#
+ 
+<h3>Práticas usadas</h3>
+
+<ul>
+    <li>Programação Orientada a Objetos</li>
+    <ul>
+        <li>Encapsulamento</li>
+        <li>Herança</li>
+        <li>Polimorfismo</li>
+    </ul>
+</ul>
+
+#
 
 <div>
     <h3>Classe Principal</h3>
-    <img src="imgs\PokemonMainClassJava.png" width="100%">
+    <img src="imgs\PokemonMainClassJava1.png" width="100%">
+    <img src="imgs\PokemonMainClassJava2.png" width="100%">
 </div>
 
 ---
