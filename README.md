@@ -60,22 +60,22 @@
 
 <div>
     <h3>Classe Principal</h3>
-    <img src="imgs\PokemonMainClassJava1.png" width="100%">
-    <img src="imgs\PokemonMainClassJava2.png" width="100%">
+    <img src="imgs\PokemonMainClassJava.png" width="80%">
 </div>
 
 ---
 
 <div>
     <h3>Classe Pokemon</h3>
-    <img src="imgs\PokemonClassJava.png" width="100%">
+    <img src="imgs\PokemonClassJava1.png" width="80%">
+    <img src="imgs\PokemonClassJava2.png" width="80%">
 </div>
 
 ---
 
 <div>
     <h3>Classe Lendario</h3>
-    <img src="imgs\PokemonLendarioClassJava.png" width="100%">
+    <img src="imgs\PokemonLendarioClassJava.png" width="80%">
 </div>
 
 ---
