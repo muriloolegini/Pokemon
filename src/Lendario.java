@@ -6,6 +6,11 @@ public class Lendario extends Pokemon {
             Integer defesaEspecial, Integer velocidade, Integer saude, String genero) {
         super(nome, numero, ataque, defesa, ataquEspecial, defesaEspecial, velocidade, saude, genero);
     }
+
+    public void restaurarVida() {
+        saude = 100;
+        System.out.println("Vida restaurada: " + saude);
+    }
     
     public void golpearDuplo(Integer golpe) {
         System.out.println("Dois golpes seguidos: " + golpe);

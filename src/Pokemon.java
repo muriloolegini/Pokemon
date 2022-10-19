@@ -1,5 +1,5 @@
 public class Pokemon {
-    
+
     String nome;
     Integer numero;
     Integer ataque;
@@ -27,6 +27,26 @@ public class Pokemon {
     private String golpe2;
     private String golpe3;
     private String golpe4;
+
+    public void golpear(Integer golpe) {
+        if (golpe == 1)
+            System.out.println("Golpe: " + golpe1);
+        if (golpe == 2)
+            System.out.println("Golpe: " + golpe2);
+        if (golpe == 3)
+            System.out.println("Golpe: " + golpe3);
+        if (golpe == 4)
+            System.out.println("Golpe: " + golpe4);
+    }
+
+    public void restaurarVida() {
+        saude = 10;
+        System.out.println("Vida restaurada: " + saude);
+    }
+
+    public void defender() {
+        System.out.println("Defendido...");
+    }
 
     public String getGolpe1() {
         return golpe1;
@@ -58,24 +78,5 @@ public class Pokemon {
 
     public void setGolpe4(String golpe4) {
         this.golpe4 = golpe4;
-    }
-
-    public void golpear(Integer golpe) {
-        if (golpe == 1)
-            System.out.println("Golpe: " + golpe1);
-        if (golpe == 2)
-            System.out.println("Golpe: " + golpe2);
-        if (golpe == 3)
-            System.out.println("Golpe: " + golpe3);
-        if (golpe == 4)
-            System.out.println("Golpe: " + golpe4);
-    }
-
-    public void restaurarVida() {
-        System.out.println("Vida restaurada!");
-    }
-
-    public void defender() {
-        System.out.println("Defendido...");
     }
 }
